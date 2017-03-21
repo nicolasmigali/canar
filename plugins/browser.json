@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.canar"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.canar"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.canar"
+        }
+    }
+}
