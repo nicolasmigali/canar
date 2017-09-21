@@ -117,5 +117,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <allow-navigation href="https://www.canar.com.ar" />
+    <allow-navigation href="*" />
 </widget>
