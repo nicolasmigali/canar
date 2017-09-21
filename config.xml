@@ -7,7 +7,6 @@
     <author email="stock@canar.com.ar" href="https://www.canar.com.ar">
         Canar
     </author>
-    <preference name="phonegap-version" value="cli-6.0.0" />
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
